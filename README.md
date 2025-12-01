@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o **Mateus**
 
-<!--
-**Mateusluizeto/Mateusluizeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor | 🚀 Entusiasta de Tecnologia | 🎯 Sempre aprendendo algo novo
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil! Aqui você encontra projetos, estudos e ideias que fazem parte da minha evolução no mundo da programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+- 🔭 Atualmente estudando desenvolvimento e criando projetos pessoais  
+- 🌱 Aprendendo novas tecnologias e boas práticas  
+- 👯 Procuro colaborar em projetos interessantes da comunidade  
+- 💬 Aberto para trocar ideias sobre tecnologia e programação  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+**Linguagens:**  
+![Linguagens](https://skillicons.dev/icons?i=js)
+
+**Front-end:**  
+![Front-end](https://skillicons.dev/icons?i=react,html,css,tailwind)
+
+**Back-end:**  
+
+**Outros:**  
+![Outros](https://skillicons.dev/icons?i=git,figma)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Igor&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Onde me encontrar
+
+- 💼 LinkedIn: *em breve*  
+- 📧 E-mail: *em breve*  
+- 🌐 Portfólio: *em breve*
+
+---
+
+## ✨ Uma frase que me inspira
+
+> _"A melhor maneira de prever o futuro é criá-lo."_ — Peter Drucker
+
+---
+
+### ⭐ Se curtiu meu perfil, deixe uma estrela ⭐ nos repositórios!
