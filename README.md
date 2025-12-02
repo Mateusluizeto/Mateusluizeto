@@ -50,8 +50,6 @@ Bem-vindo ao meu perfil! Aqui você encontra projetos, estudos e ideias que faze
 
 ---
 
-## ✨ Uma frase que me inspira
-
 > _"A melhor maneira de prever o futuro é criá-lo."_ — Peter Drucker
 
 ---
