@@ -24,6 +24,7 @@ Bem-vindo ao meu perfil! Aqui você encontra projetos, estudos e ideias que faze
 ![Front-end](https://skillicons.dev/icons?i=react,html,css,tailwind)
 
 **Back-end:**  
+![Back-end](https://skillicons.dev/icons?i=nodejs)
 
 **Outros:**  
 ![Outros](https://skillicons.dev/icons?i=git,figma)
