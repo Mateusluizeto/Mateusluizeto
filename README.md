@@ -44,7 +44,7 @@ Bem-vindo ao meu perfil! Aqui você encontra projetos, estudos e ideias que faze
 ## 📫 Onde me encontrar
 
 - 💼 LinkedIn: *em breve*  
-- 📧 E-mail: *em breve*  
+- 📧 E-mail: mluizetoreis@gmail.com  
 - 🌐 Portfólio: *em breve*
 
 ---
