@@ -1,4 +1,3 @@
-# 👋 Olá! Eu sou o **Mateus**
 
 ### 💻 Desenvolvedor | 🚀 Entusiasta de Tecnologia | 🎯 Sempre aprendendo algo novo
 
